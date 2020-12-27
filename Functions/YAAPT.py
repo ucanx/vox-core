@@ -1,6 +1,6 @@
 import amfm_decompy.pYAAPT as pYAAPT
 
-
+#natural frequency of signal from YAAPT library
 def YAAPT_fundamental_freq(signal, frame_length=40, tda_frame_length=40, f0_min=70, f0_max=600):
     pitchY = pYAAPT.yaapt(signal, frame_length=frame_length, tda_frame_length=tda_frame_length, f0_min=f0_min,
                           f0_max=f0_max)
