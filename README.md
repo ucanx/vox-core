@@ -1,2 +1,3 @@
 # vox_core
-Vox Audio analyze and feature extraction will handle in this repo 
+Vox Audio analyze scripts and feature extraction will handle in this repo 
+
